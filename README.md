@@ -1,5 +1,5 @@
 # RL Applications on [Fluid Mechatronix](https://www.turbinetechnologies.com/Portals/0/pdfs/pumplab_tech_sheets/FluidMechatronix%20Sample.pdf): Matlab
-Matlab RL agents implemented on the Fluid Mechatronix experiment, developed by [_Bowen Liu_](https://github.com/Bowen2000) and [_Oguzhan Dogru_](https://github.com/oguzhan-dogru). Contact <dogru@ualberta.ca> for the details/datasets.
+Matlab RL agents implemented on the Fluid Mechatronix experiment, developed by [_Bowen Liu_](https://github.com/Bowen2000) and [_Oguzhan Dogru_](https://github.com/oguzhan-dogru). Contact [dogru@ualberta.ca](mailto:dogru@ualberta.ca?subject=[GitHub]%20Fluid%20Mechatronix) for the details/datasets.
 
 
 ## Related Applications/Publications
